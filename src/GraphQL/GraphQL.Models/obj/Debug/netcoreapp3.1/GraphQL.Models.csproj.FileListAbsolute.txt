@@ -1,0 +1,14 @@
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\bin\Debug\netcoreapp3.1\GraphQL.Models.deps.json
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\bin\Debug\netcoreapp3.1\GraphQL.Models.dll
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\obj\Debug\netcoreapp3.1\GraphQL.Models.csprojAssemblyReference.cache
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\obj\Debug\netcoreapp3.1\GraphQL.Models.AssemblyInfoInputs.cache
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\obj\Debug\netcoreapp3.1\GraphQL.Models.AssemblyInfo.cs
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\bin\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.dll
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\bin\Debug\netcoreapp3.1\ProductsAppl.Domain.Core.Models.dll
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\bin\Debug\netcoreapp3.1\GraphQL.Models.pdb
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\bin\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.pdb
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\bin\Debug\netcoreapp3.1\ProductsAppl.Domain.Core.Models.pdb
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\obj\Debug\netcoreapp3.1\GraphQL.Models.csproj.CoreCompileInputs.cache
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\obj\Debug\netcoreapp3.1\GraphQL.Models.csproj.CopyComplete
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\obj\Debug\netcoreapp3.1\GraphQL.Models.dll
+C:\Users\artur_kachechka\source\repos\ProductsAppl\src\GraphQL\GraphQL.Models\obj\Debug\netcoreapp3.1\GraphQL.Models.pdb

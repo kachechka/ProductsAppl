@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Data.MemoryRepositories/1.0.0": {
+        "dependencies": {
+          "Domain.Abstraction.Repositories": "1.0.0",
+          "ProductsAppl.Domain.Core.Models": "1.0.0"
+        },
+        "runtime": {
+          "Data.MemoryRepositories.dll": {}
+        }
+      },
+      "Domain.Abstraction.Repositories/1.0.0": {
+        "runtime": {
+          "Domain.Abstraction.Repositories.dll": {}
+        }
+      },
+      "ProductsAppl.Domain.Core.Models/1.0.0": {
+        "runtime": {
+          "ProductsAppl.Domain.Core.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data.MemoryRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.Abstraction.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductsAppl.Domain.Core.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
