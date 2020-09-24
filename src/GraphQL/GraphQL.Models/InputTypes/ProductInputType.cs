@@ -9,7 +9,7 @@ namespace GraphQL.Models.InputTypes
         {
             Name = GetType().Name[0..^4];
 
-            Field<IntGraphType>(nameof(Product.Id));
+            Field<StringGraphType>(nameof(Product.Id));
             Field<NonNullGraphType<StringGraphType>>(nameof(Product.Name));
             Field<NonNullGraphType<StringGraphType>>(nameof(Product.Description));
             Field<NonNullGraphType<DecimalGraphType>>(nameof(Product.Price));
