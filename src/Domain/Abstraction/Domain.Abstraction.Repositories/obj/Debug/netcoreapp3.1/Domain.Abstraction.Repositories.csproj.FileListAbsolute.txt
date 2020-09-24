@@ -1,8 +1,0 @@
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Abstraction\Domain.Abstraction.Repositories\bin\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.deps.json
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Abstraction\Domain.Abstraction.Repositories\bin\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.dll
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Abstraction\Domain.Abstraction.Repositories\bin\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.pdb
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Abstraction\Domain.Abstraction.Repositories\obj\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.AssemblyInfoInputs.cache
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Abstraction\Domain.Abstraction.Repositories\obj\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.AssemblyInfo.cs
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Abstraction\Domain.Abstraction.Repositories\obj\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.csproj.CoreCompileInputs.cache
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Abstraction\Domain.Abstraction.Repositories\obj\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.dll
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Abstraction\Domain.Abstraction.Repositories\obj\Debug\netcoreapp3.1\Domain.Abstraction.Repositories.pdb

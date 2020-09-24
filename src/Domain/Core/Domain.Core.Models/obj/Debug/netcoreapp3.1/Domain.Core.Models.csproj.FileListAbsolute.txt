@@ -1,9 +1,0 @@
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\bin\Debug\netcoreapp3.1\ProductsAppl.Domain.Core.Models.deps.json
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\bin\Debug\netcoreapp3.1\ProductsAppl.Domain.Core.Models.dll
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\bin\Debug\netcoreapp3.1\ProductsAppl.Domain.Core.Models.pdb
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\obj\Debug\netcoreapp3.1\Domain.Core.Models.csprojAssemblyReference.cache
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\obj\Debug\netcoreapp3.1\Domain.Core.Models.AssemblyInfoInputs.cache
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\obj\Debug\netcoreapp3.1\Domain.Core.Models.AssemblyInfo.cs
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\obj\Debug\netcoreapp3.1\Domain.Core.Models.csproj.CoreCompileInputs.cache
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\obj\Debug\netcoreapp3.1\ProductsAppl.Domain.Core.Models.dll
-C:\Users\artur_kachechka\source\repos\ProductsAppl\src\Domain\Core\Domain.Core.Models\obj\Debug\netcoreapp3.1\ProductsAppl.Domain.Core.Models.pdb
