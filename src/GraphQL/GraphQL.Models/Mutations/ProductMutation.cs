@@ -11,7 +11,10 @@ namespace GraphQL.Models.Mutations
     public class ProductMutation : ObjectGraphType
     {
         private static readonly string _createProductQuery = "createProduct";
+        private static readonly string _updateProductQuery = "updateProduct";
+        private static readonly string _deleteProductQuery = "deleteProduct";
         private static readonly string _productArgumentName = "product";
+        private static readonly string _idArgumentName = "id";
 
         private readonly IPaginationRepository<Product> _productRepository;
 
@@ -30,6 +33,48 @@ namespace GraphQL.Models.Mutations
                     }
                 }),
                 resolve: CreateProductResolve);
+
+            // updating product.
+            Field<ProductType>(
+                _updateProductQuery,
+                arguments: new QueryArguments(new List<QueryArgument>
+                {
+                    new QueryArgument<NonNullGraphType<ProductInputType>>
+                    {
+                        Name = _productArgumentName
+                    }
+                }),
+                resolve: UpdateProductResolve);
+
+            // deleting product.
+            Field<StringGraphType>(
+                _deleteProductQuery,
+                arguments: new QueryArguments(new List<QueryArgument>
+                {
+                    new QueryArgument<NonNullGraphType<StringGraphType>>
+                    {
+                        Name = _idArgumentName
+                    }
+                }),
+                resolve: DeleteProductResolve);
+        }
+
+        private string DeleteProductResolve(ResolveFieldContext<object> context)
+        {
+            var id = context.GetArgument<string>(_idArgumentName);
+
+            _productRepository.Delete(id);
+
+            return id;
+        }
+
+        private Product UpdateProductResolve(ResolveFieldContext<object> context)
+        {
+            var product = context.GetArgument<Product>(_productArgumentName);
+
+            _productRepository.Update(product);
+
+            return product;
         }
 
         private Product CreateProductResolve(ResolveFieldContext<object> context)
